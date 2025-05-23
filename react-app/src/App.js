@@ -16,6 +16,7 @@ function App() {
       <a href="https://github.com/DishaPatel126/basic-react-app/tree/main/react-app" target="_blank" rel="noopener noreferrer">
         <button>Visit My GitHub Repo  </button>
       </a>
+      <p>Added github link for this class submission</p>
     </div>
   );
 }

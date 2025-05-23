@@ -36,6 +36,10 @@
     text-align: center;
 }
 
+.App p {
+  font-size: small;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
